@@ -37,3 +37,6 @@ This repo contains three `.ipynb` notebooks that are designed to run on Kaggle w
 - logging
 - warnings
 - random
+- transformers
+- Pillow
+- torch
