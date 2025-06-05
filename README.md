@@ -1,5 +1,8 @@
 # AI-Knight
-This competition was Organised by IIT Jodhpur on kaggle. We secured 15th rank with a F1-Score of 0.93.
+This competition was Organised by IIT Jodhpur on kaggle. We secured 16th rank with a F1-Score of 0.93 on private and 0.91 on public.
+Proof:
+https://drive.google.com/file/d/19Q1TfdQES6cEu6MLiLXZcihd50npERbF/view?usp=sharing
+
 
 ## How to Run the Repo for Inference
 
